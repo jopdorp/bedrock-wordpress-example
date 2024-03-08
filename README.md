@@ -14,6 +14,7 @@ This package uses [Composer](https://getcomposer.org/) to install WordPress,
 plugins and themes. The Bedrock setup helps us making more sense of the
 environment (configuration, folder setup).
 
+
 ## How to use this setup?
 ### Starting a new project
 Each project needs it's own repository. We use this repository as a blueprint
